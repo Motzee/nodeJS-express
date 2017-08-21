@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-express",
+  "version": "0.1.0",
+  "description": "Test de Express sous NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Motzee/nodeJS-express.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "serveur",
+    "Express"
+  ],
+  "author": "LaLicorne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Motzee/nodeJS-express/issues"
+  },
+  "homepage": "https://github.com/Motzee/nodeJS-express#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
